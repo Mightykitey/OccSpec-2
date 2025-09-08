@@ -38,7 +38,9 @@ echo"</table>";
 echo "<ul>";
 
 
-echo "</ul>"
+echo "</ul>";
+
+echo "<a href='forms.php'> go to the form</a> ";
 echo"</body>";
 
 echo "</html>";
